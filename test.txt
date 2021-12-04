@@ -1,15 +1,3 @@
-U one two three four five fuck it help me you a b c x y z
-S one two
-S three
-S four fuck it five
-S two
-S three it
-R (one two) (two two) (five five) (it it) (fuck fuck) (five fuck)
-S fuck
-R (help me) (fuck you) (fuck it) (fuck me)
-S a b c x
-S x y z b
-S
-S 
-R
-R 
+U a b
+R (a b) (b a) (a a) (b b)
+C symmetric 2
